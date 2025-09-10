@@ -61,3 +61,12 @@ IssueやPull Requestはいつでも歓迎です！
 
 > 「伝える力は、理解する力の証明だ。」
 
+---
+
+## 🧑‍💻 作者
+
+[ともAI便り](https://github.com/TomoAIDayori)
+AIツールやポートフォリオ開発に関する情報も発信中。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
