@@ -13,8 +13,9 @@
 ---
 
 ## 📜 修了証明書（Certificate）
+![生成AIの概念の概要](https://github.com/user-attachments/assets/00e9197d-db8b-4bb1-ba12-ea03acadc091)
 
-![certificate](/mnt/data/469CDC00-2121-4BCA-8E32-DA6D33D9F96E.jpeg)
+
 
 発行元：Microsoft
 講座名：生成AIの概念の概要
