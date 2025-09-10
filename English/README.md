@@ -62,3 +62,12 @@ Feel free to open an issue or submit a pull request.
 
 ---
 
+## 🧑‍💻 Creator
+
+[Tomo AI Dayori](https://github.com/TomoAIDayori)
+
+Check out my portfolio and AI tool development updates too!
+
+
+## Feel free to reach out
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
