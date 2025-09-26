@@ -60,14 +60,3 @@ Feel free to open an issue or submit a pull request.
 > “Simplicity is the ultimate sophistication.” – Leonardo da Vinci  
 > (*and a design principle I try to live by*)
 
----
-
-## 🧑‍💻 Creator
-
-[Tomo AI Dayori](https://github.com/TomoAIDayori)
-
-Check out my portfolio and AI tool development updates too!
-
-
-## Feel free to reach out
-[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
