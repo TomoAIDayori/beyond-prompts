@@ -7,9 +7,9 @@
 
 ## 📜 修了証明書
 ![生成AIの概念の概要](https://github.com/user-attachments/assets/00e9197d-db8b-4bb1-ba12-ea03acadc091)
-発行元：Microsoft
-講座名：生成AIの概念の概要
-日付：2025年9月10日
+発行元：Microsoft<br>
+講座名：生成AIの概念の概要<br>
+日付：2025年9月10日<br>
 署名：Satya Nadella
 
 ---
