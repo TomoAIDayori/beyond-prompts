@@ -16,13 +16,13 @@
 
 ## 🚀 実践アウトプット（上から順に見る）
 
-議事録らくらくGPT：会議直後、3行要約＋ToDoを即生成。
+議事録らくらくGPT：会議直後、3行要約＋ToDoを即生成。<br>
 ⏱ 議事録 30分 → 3分 ／ 🔗 [リポジトリ](https://github.com/truthwave/meeting-minutes-helper)
 
-社内FAQ即答アシスタント：「誰に聞く？」を10–30秒で解決。
+社内FAQ即答アシスタント：「誰に聞く？」を10–30秒で解決。<br>
 📉 横流し質問 半減（目安）／ 🔗 [リポジトリ](https://github.com/truthwave/faq-assistant-gpt)
 
-プロンプト・ポートフォリオ：再利用テンプレと出力を一元管理。
+プロンプト・ポートフォリオ：再利用テンプレと出力を一元管理。<br>
 🔎 検索→再利用まで1画面 ／ 🔗 [リポジトリ](https://github.com/truthwave/my-ai-portfolio-clean)
 
 目的は“時短”ではない。判断を早く、迷いを少なく。
