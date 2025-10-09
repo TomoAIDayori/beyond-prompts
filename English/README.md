@@ -17,13 +17,13 @@ Signature: Satya Nadella
 ## 🚀 Practical Outputs (View from top)
 
 Meeting Notes Made Easy GPT: Generates 3-line summaries + ToDos immediately after meetings.<br>
-⏱ Meeting Notes 30 min → 3 min ／ 🔗 [Repository](https://github.com/truthwave/meeting-minutes-helper)
+⏱ Meeting Notes 30 min → 3 min ／ 🔗 [Repository](https://github.com/truthwave/meeting-minutes-helper/tree/main/English)
 
 Instant Internal FAQ Assistant: Solves “Who should I ask?” in 10–30 seconds.<br>
-📉 Reduces side-channel questions by half (approx.)／ 🔗 [Repository](https://github.com/truthwave/faq-assistant-gpt)
+📉 Reduces side-channel questions by half (approx.)／ 🔗 [Repository](https://github.com/truthwave/faq-assistant-gpt/tree/main/English)
 
 Prompt Portfolio: Centralized management of reusable templates and outputs.<br>
-🔎 Search → reuse in one screen ／ 🔗 [Repository](https://github.com/truthwave/my-ai-portfolio-clean)
+🔎 Search → reuse in one screen ／ 🔗 [Repository](https://github.com/truthwave/my-ai-portfolio-clean/tree/main/English)
 
 The goal isn't just “saving time.” It's faster decision-making and less hesitation.
 
